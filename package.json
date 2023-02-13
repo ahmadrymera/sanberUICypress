@@ -1,0 +1,24 @@
+{
+  "name": "sanberuicypress",
+  "version": "1.0.0",
+  "description": "UI test using cypress task for sanberCode QA BootCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^10.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadrymera/sanberUICypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadrymera/sanberUICypress/issues"
+  },
+  "homepage": "https://github.com/ahmadrymera/sanberUICypress#readme"
+}
